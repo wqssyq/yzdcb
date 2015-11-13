@@ -1,0 +1,1 @@
+java -cp words.jar Main_Words text/voa/1112/01.txt
