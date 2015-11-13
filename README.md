@@ -3,6 +3,8 @@
 【功能描述】
 可以将 text 目录下的 .txt 文件标注单词，生成单词文件与注释文件。
 
+english word to chinese.
+
 【运行】
 点击 run_words.cmd
 
